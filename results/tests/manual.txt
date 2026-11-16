@@ -1,0 +1,14 @@
+TARGET         SOURCE FSTYPE    OPTIONS
+/mnt/miniramfs none   miniramfs rw,relatime
+/mnt/miniramfs none   miniramfs rw,relatime
+total 4
+drwxr-xr-x 3 user user    0 Nov 16 14:18 .
+drwxr-xr-x 3 root root 4096 Nov 16 14:12 ..
+drwxrwxr-x 2 user user    0 Nov 16 14:19 demo
+total 4
+drwxrwxr-x 2 user user 0 Nov 16 14:19 .
+drwxr-xr-x 3 user user 0 Nov 16 14:18 ..
+-rw-rw-r-- 1 user user 0 Nov 16 14:18 empty.txt
+-rw-rw-r-- 1 user user 4 Nov 16 14:20 message.txt
+New
+4 /mnt/miniramfs/demo/message.txt

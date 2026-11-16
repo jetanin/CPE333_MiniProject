@@ -1,0 +1,10 @@
+filename:       /home/user/miniProject2/kernel/miniramfs/./miniramfs.ko
+alias:          fs-miniramfs
+description:    Educational RAM filesystem
+author:         MiniProject2 Team
+license:        GPL
+srcversion:     0D5B90895A60149CF0BECFA
+depends:        
+name:           miniramfs
+retpoline:      Y
+vermagic:       7.0.0-43-generic SMP preempt mod_unload modversions 

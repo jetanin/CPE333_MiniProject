@@ -1,0 +1,23 @@
+[33776.200709] miniramfs: module loaded
+[33804.472317] miniramfs: new filesystem instance mounted
+[34066.378530] miniramfs: new filesystem instance mounted
+[34170.900442] miniramfs: created demo (directory)
+[34196.457563] miniramfs: created empty.txt (file)
+[34234.028302] miniramfs: created message.txt (file)
+[36084.701498] miniramfs: destroying filesystem instance
+[36111.543570] miniramfs: destroying filesystem instance
+[36162.475369] miniramfs: new filesystem instance mounted
+[36193.949387] miniramfs: created validation-prl8nxsc (directory)
+[36193.949437] miniramfs: created empty.txt (file)
+[36193.949557] miniramfs: created a (directory)
+[36193.949562] miniramfs: created b (directory)
+[36193.949584] miniramfs: created text.txt (file)
+[36193.949953] miniramfs: created binary.bin (file)
+[36193.950093] miniramfs: created sparse.bin (file)
+[36193.950190] miniramfs: created limit.bin (file)
+[36193.950222] miniramfs: created remove-me (directory)
+[36299.706017] miniramfs: created lifetime-marker.txt (file)
+[36334.344623] miniramfs: destroying filesystem instance
+[36381.145048] miniramfs: new filesystem instance mounted
+[36429.845044] miniramfs: destroying filesystem instance
+[36463.828134] miniramfs: module unloaded

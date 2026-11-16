@@ -1,0 +1,19 @@
+PASS 01: create empty file
+PASS 02: read empty file
+PASS 03: create nested directories
+PASS 04: write/read text
+PASS 05: append data
+PASS 06: overwrite and truncate old data
+PASS 07: binary data across multiple pages
+PASS 08: correct file size
+PASS 09: seek beyond EOF and read zero-filled gap
+PASS 10: shrink file
+PASS 11: extend truncated file with zeros
+PASS 12: missing file reports ENOENT
+PASS 13: duplicate directory reports EEXIST
+PASS 14: enforce 16 MiB file limit
+PASS 15: unlink file
+PASS 16: remove empty directory
+
+ALL 16 CHECKS PASSED
+Test files retained at: /mnt/miniramfs/validation-prl8nxsc

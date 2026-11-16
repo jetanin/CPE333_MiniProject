@@ -1,0 +1,27 @@
+# Kernel module build outputs
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+.tmp_versions/
+compile_commands.json
+
+# Generated kernel compatibility configuration
+kernel/miniramfs/compat.h
+
+# Backups and editor files
+*.bak
+*~
+.vscode/
+.idea/
+__pycache__/
+
+# Submission archives
+*.tar.gz
+*.zip
+
+# Raw terminal recordings
+results/session-*.log

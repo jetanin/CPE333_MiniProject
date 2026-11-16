@@ -1,0 +1,6 @@
+Running kernel: 7.0.0-43-generic
+Headers: /usr/src/linux-headers-7.0.0-43-generic
+/* Generated from the installed kernel headers. */
+#define MP_MKDIR_RETURNS_DENTRY 1
+#define MP_HAS_PERSISTENT_DENTRY 1
+

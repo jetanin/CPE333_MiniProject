@@ -1,0 +1,3 @@
+TARGET         SOURCE FSTYPE    OPTIONS
+/mnt/miniramfs none   miniramfs rw,relatime
+/mnt/miniramfs none   miniramfs rw,relatime
